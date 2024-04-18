@@ -1,0 +1,8 @@
+# --------------- LANGUAGE ------------- #
+# Supported languages: en_US, es_ES, val_ES
+# Language Codes: https://learn.microsoft.com/en-us/linkedin/shared/references/reference-tables/language-codes
+# Want to help translate? Join our Discord: https://discord.gg/pluginportal
+language: en_US
+marketplace-service: SPIGOTMC
+cache-time-in-minutes: 10
+startup-on-install: true
